@@ -1,0 +1,25 @@
+# Never commit credentials or signing material
+*.p8
+AuthKey_*.p8
+*.jks
+*.keystore
+key.properties
+*service-account*.json
+*appstoreconnect*.json
+*play*.json
+google-play-*.json
+release-config.env
+.env
+.env.*
+
+# Build artifacts
+*.ipa
+*.aab
+*.apk
+build/
+DerivedData/
+
+# OS / editor noise
+.DS_Store
+__pycache__/
+*.pyc
