@@ -1,0 +1,25 @@
+scripts/build_app_store_connect_api_key_json.py
+  s_543da8dee18183::t_204b58b01d2b7a 1-69
+scripts/promote_android_play.py
+  s_543da8dee18183::t_86b139807d63c6 1-120
+scripts/upload_android_play_api.py
+  s_543da8dee18183::t_7426e1142b0ec6 1-231
+scripts/verify_google_play_service_account.py
+  s_543da8dee18183::t_90ed0798c3b7a0 1-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cacd9770c91f796944cd8a002fe09aa6bc6539df",
+  "prompts": {},
+  "sessions": {
+    "s_543da8dee18183": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0dab42fb-514b-428d-86cd-c5fa7aae4ed2",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
